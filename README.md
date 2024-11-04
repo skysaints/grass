@@ -64,4 +64,4 @@ Now you can also Close Terminal because its Running in a Screen
 
 ## Credits :
 ### 1. Bot Maker : https://github.com/skysaints/grass
-### 2. Post Maker : t.me/skysaints
+### 2. Post Maker : https://t.me/skysaints
